@@ -26,3 +26,11 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+
+let email = document.getElementById("email")
+let submit = document.getElementById("submit")
+let from = document.getElementById("form")
+form.addEventListener("submit",((e)=>{
+  e.preventDefault()
+  window.location = "https://www.freecodecamp.com/email-submit"
+}))
