@@ -40,5 +40,20 @@ section{
     header{
         flex-direction: column !important;
     }
+    #nav-link{
+        font-size: 40px ;
+    }
+    #video{
+        
+        font-size: 40px ;
+    }
+    #email{
+        
+        font-size: 40px ;
+    }
+    #submit{
+        font-size: 40px ;
+
+    }
 } 
 
